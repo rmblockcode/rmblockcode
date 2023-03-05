@@ -29,6 +29,9 @@
 
 ### 📹 Lastest videos on my [Youtube channel](https://youtube.com/@rmblockcode?sub_confirmation=1)
 
+<a href='https://youtu.be/9mzx4_cGPmU' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/9mzx4_cGPmU/mqdefault.jpg' alt='OpenAI API y Whisper con Python' />
+</a>
 <a href='https://youtu.be/oABLgJgCunY' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/oABLgJgCunY/mqdefault.jpg' alt='Celebrando 100 suscriptores 🎉: ¿qué viene a continuación?' />
 </a>

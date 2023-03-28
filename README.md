@@ -28,7 +28,6 @@
 -->
 
 ### 📹 Lastest videos on my [Youtube channel](https://youtube.com/@rmblockcode?sub_confirmation=1)
-7I1IH7tZjuo
 <a href='https://youtu.be/7I1IH7tZjuo' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/7I1IH7tZjuo/mqdefault.jpg' alt='Probando GPT-4: 3 mini proyectos | Video Downloader con Python | Descubre el Poder de la IA' />
 </a>

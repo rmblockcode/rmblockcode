@@ -28,6 +28,9 @@
 -->
 
 ### 📹 Lastest videos on my [Youtube channel](https://youtube.com/@rmblockcode?sub_confirmation=1)
+<a href='https://youtu.be/CzJ6Z2AaPvQ' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/CzJ6Z2AaPvQ/mqdefault.jpg' alt='Cómo ejecutar ChatGPT en tu propia máquina: una guía paso a paso' />
+</a>
 <a href='https://youtu.be/7I1IH7tZjuo' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/7I1IH7tZjuo/mqdefault.jpg' alt='Probando GPT-4: 3 mini proyectos | Video Downloader con Python | Descubre el Poder de la IA' />
 </a>

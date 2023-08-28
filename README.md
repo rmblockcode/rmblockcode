@@ -28,6 +28,18 @@
 -->
 
 ### 📹 Lastest videos on my [Youtube channel](https://youtube.com/@rmblockcode?sub_confirmation=1)
+<a href='https://youtu.be/9NQqomkRxV8' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/9NQqomkRxV8/mqdefault.jpg' alt='Mi Propio DCA - Parte 2. Armando nuestra arquitectura' />
+</a>
+<a href='https://youtu.be/XfWII5eqXis' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/XfWII5eqXis/mqdefault.jpg' alt='LangChain Tutorial Parte 2 - Interactúa con tu propia Base de Datos (Plus React)' />
+</a>
+<a href='https://youtu.be/y2I638fqqU0' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/y2I638fqqU0/mqdefault.jpg' alt='LangChain Tutorial Parte 1 - Interactúa con tus propios datos' />
+</a>
+<a href='https://youtu.be/PSfTevvGlfs' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/PSfTevvGlfs/mqdefault.jpg' alt='Introducción al Dollar-Cost Averaging con Python' />
+</a>
 <a href='https://youtu.be/CzJ6Z2AaPvQ' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/CzJ6Z2AaPvQ/mqdefault.jpg' alt='Cómo ejecutar ChatGPT en tu propia máquina: una guía paso a paso' />
 </a>
@@ -35,17 +47,8 @@
   <img width='30%' src='https://img.youtube.com/vi/7I1IH7tZjuo/mqdefault.jpg' alt='Probando GPT-4: 3 mini proyectos | Video Downloader con Python | Descubre el Poder de la IA' />
 </a>
 <a href='https://youtu.be/_tlIAqIL8IE' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/_tlIAqIL8IE/mqdefault.jpg' alt='OpenAI API y Whisper con Python' />
+  <img width='30%' src='https://img.youtube.com/vi/_tlIAqIL8IE/mqdefault.jpg' alt='Reaccionando Demo GPT-4 por OpenAI' />
 </a>
 <a href='https://youtu.be/9mzx4_cGPmU' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/9mzx4_cGPmU/mqdefault.jpg' alt='OpenAI API y Whisper con Python' />
-</a>
-<a href='https://youtu.be/oABLgJgCunY' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/oABLgJgCunY/mqdefault.jpg' alt='Celebrando 100 suscriptores 🎉: ¿qué viene a continuación?' />
-</a>
-<a href='https://youtu.be/BzE1TSSoqs8' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/BzE1TSSoqs8/mqdefault.jpg' alt='Celebrando 100 suscriptores 🎉: ¿qué viene a continuación?' />
-</a>
-<a href='https://youtu.be/tG9iaBzOITk' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/tG9iaBzOITk/mqdefault.jpg' alt='Celebrando 100 suscriptores 🎉: ¿qué viene a continuación?' />
 </a>
